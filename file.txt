@@ -3,3 +3,7 @@ this text is of NEW branch
 
 MERGE CONFLICT RESOLVED:
 This text is from main branch
+
+
+
+new line 1
