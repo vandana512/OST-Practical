@@ -1,2 +1,5 @@
 this is a new test file
 this text is of NEW branch
+
+MERGE CONFLICT RESOLVED:
+This text is from main branch
