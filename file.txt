@@ -6,4 +6,5 @@ This text is from main branch
 
 
 
+new line 2
 new line 1
